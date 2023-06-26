@@ -1,0 +1,1 @@
+This is the file created  in Git Bash to be uploaded and commited to my GitHub repository
